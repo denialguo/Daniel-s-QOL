@@ -20,10 +20,10 @@ Most of the extensions are open source below. Two image-heavy joke extensions ar
 
 ## Chrome Web Store-only extensions
 
-Two additional image-heavy meme extensions are published under **Daniel's QOL** but are not mirrored on GitHub because their repositories would mostly consist of large image assets.
+Two additional image-heavy extensions are published under **Daniel's QOL** but are not mirrored on GitHub because their repositories would mostly consist of large image assets.
 
 - **Lobotomy Kaisen** — [Chrome Web Store](https://chromewebstore.google.com/detail/lobotomy-kaisen/ghliijglcmmhpapgbfjigohjnghpnhmc)
-- **LeBron's Sunshine** — [Chrome Web Store](https://chromewebstore.google.com/detail/the-kdf-files/hccphiimobkgljjammhflfhljhfhoeol) _(store rename currently pending)_
+- **LeBron's Sunshine** — [Chrome Web Store](https://chromewebstore.google.com/detail/the-kdf-files/hccphiimobkgljjammhflfhljhfhoeol) 
 
 ## Tech
 
