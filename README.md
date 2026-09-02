@@ -4,8 +4,6 @@ A collection of Chrome extensions I built and published to make everyday browsin
 
 **9 published extensions · 3,000+ weekly active users · 11,500+ installs**
 
-Most of the extensions are open source below. Two image-heavy joke extensions are Chrome Web Store-only and are listed separately at the bottom.
-
 ## Extensions
 
 | Extension | What it does | Source | Chrome Web Store |
