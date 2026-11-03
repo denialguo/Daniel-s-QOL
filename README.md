@@ -2,7 +2,7 @@
 
 A collection of Chrome extensions I built and published to make everyday browsing less annoying.
 
-**9 published extensions · 5,500+ weekly active users · 15,000+ installs** as of 10/15/26
+**9 published extensions · 6,158 weekly active users · 16,000+ installs** as of 11/03/26
 
 ## Extensions
 
